@@ -1,0 +1,16 @@
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve3)\16ci tapsiriq\bin\Debug\net5.0\16ci tapsiriq.exe
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve3)\16ci tapsiriq\bin\Debug\net5.0\16ci tapsiriq.deps.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve3)\16ci tapsiriq\bin\Debug\net5.0\16ci tapsiriq.runtimeconfig.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve3)\16ci tapsiriq\bin\Debug\net5.0\16ci tapsiriq.runtimeconfig.dev.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve3)\16ci tapsiriq\bin\Debug\net5.0\16ci tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve3)\16ci tapsiriq\bin\Debug\net5.0\ref\16ci tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve3)\16ci tapsiriq\bin\Debug\net5.0\16ci tapsiriq.pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve3)\16ci tapsiriq\obj\Debug\net5.0\16ci tapsiriq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve3)\16ci tapsiriq\obj\Debug\net5.0\16ci tapsiriq.AssemblyInfoInputs.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve3)\16ci tapsiriq\obj\Debug\net5.0\16ci tapsiriq.AssemblyInfo.cs
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve3)\16ci tapsiriq\obj\Debug\net5.0\16ci tapsiriq.csproj.CoreCompileInputs.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve3)\16ci tapsiriq\obj\Debug\net5.0\16ci tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve3)\16ci tapsiriq\obj\Debug\net5.0\ref\16ci tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve3)\16ci tapsiriq\obj\Debug\net5.0\16ci tapsiriq.pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve3)\16ci tapsiriq\obj\Debug\net5.0\16ci tapsiriq.genruntimeconfig.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve3)\16ci tapsiriq\obj\Debug\net5.0\16ci tapsiriq.csproj.AssemblyReference.cache
